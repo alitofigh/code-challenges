@@ -4,6 +4,8 @@ package challenges;
  * @author Ali Tofigh 4/5/2022 5:50 PM
  */
 
+// without using
+
 public class DivideTwoIntegers {
     public static void main(String[] args) {
         long method1Start = System.currentTimeMillis();
